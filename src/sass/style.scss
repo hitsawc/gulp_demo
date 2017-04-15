@@ -1,0 +1,21 @@
+//sass style
+//-------------------------------
+$fontSize: 12px;
+body {
+    $fontSize: 14px;
+    font-size: $fontSize;
+}
+
+p {
+    font-size: $fontSize;
+}
+
+//css style
+//-------------------------------
+body {
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
+}
