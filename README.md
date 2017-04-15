@@ -1,2 +1,2 @@
 # gulp_demo
-gulp的第一个demo
+gulp工程化实例程序
